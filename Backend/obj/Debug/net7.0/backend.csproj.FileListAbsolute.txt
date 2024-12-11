@@ -1,0 +1,738 @@
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/backend.exe
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+C:/Users/User/Desktop/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+/Users/dmitriynovikov/SecureVault/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.exe
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+C:/Users/avakj/Desktop/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+<<<<<<< HEAD
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.exe
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+=======
+>>>>>>> d61ff223470c9085068f67cc73115b19b924ab33
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Humanizer.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+c:/Users/avakj/Desktop/ISA3/Project ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/backend
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Humanizer.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecureVault_3/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/appsettings.json
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/backend.exe
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/backend.deps.json
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/backend.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/backend.pdb
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Npgsql.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/refint/backend.dll
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.pdb
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+C:/Users/Kasutaja/Desktop/isa3-ddgv-1/Backend/obj/Debug/net7.0/ref/backend.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.exe
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Humanizer.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/backend
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Humanizer.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault4/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+>>>>>>> d633baef1cf78328e01009dab5c48717763c0ba7
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/avakj/Desktop/ISA3/isa3-ddgv/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/backend.exe
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/backend.deps.json
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/backend.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/backend.pdb
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/SecureVault/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.dll
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/refint/backend.dll
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.pdb
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+C:/Users/User/Desktop/SecureVault/Backend/obj/Debug/net7.0/ref/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Humanizer.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+/Users/dmitriynovikov/VS_CodeProjects/secVault/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/backend
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Humanizer.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+/Users/dmitriynovikov/VS_CodeProjects/SEC_VAULT/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/appsettings.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/backend
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/backend.deps.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/backend.runtimeconfig.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Humanizer.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/scopedcss/bundle/backend.styles.css
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.csproj.CopyComplete
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/refint/backend.dll
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.pdb
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+/Users/dmitriynovikov/VS_CodeProjects/SecVault____2/isa3-ddgv/Backend/obj/Debug/net7.0/ref/backend.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\appsettings.json
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\backend.exe
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\backend.deps.json
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\backend.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\backend.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\backend.pdb
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.csproj.AssemblyReference.cache
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend.props
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\scopedcss\bundle\backend.styles.css
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.csproj.CopyComplete
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\refint\backend.dll
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.pdb
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
+C:\Users\Kasutaja\Desktop\isa3-ddgv\Backend\obj\Debug\net7.0\ref\backend.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\appsettings.json
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\backend.exe
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\backend.deps.json
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\backend.runtimeconfig.json
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\backend.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\backend.pdb
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Npgsql.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.csproj.AssemblyReference.cache
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.AssemblyInfoInputs.cache
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.AssemblyInfo.cs
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend.props
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\scopedcss\bundle\backend.styles.css
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.csproj.CopyComplete
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\refint\backend.dll
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.pdb
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
+C:\Users\avakj\Desktop\test proga\isa3-ddgv\Backend\obj\Debug\net7.0\ref\backend.dll
